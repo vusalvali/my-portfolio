@@ -1,6 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import drclean from '../assets/img/drclean.jpg';
+import drclean from '../assets/img/drclean.png';
 
 import pascal from "../assets/img/pascal.jpg";
 import multimedia from "../assets/img/multimedia.jpeg";
