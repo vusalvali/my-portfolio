@@ -1,16 +1,16 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import drclean from '../assets/img/drclean.png';
+import drclean from "../assets/img/drclean.png";
 
-import pascal from "../assets/img/pascal.jpg";
+import pascal from "../assets/img/pascal.png";
 import multimedia from "../assets/img/multimedia.jpeg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
-import epin from "../assets/img/epin.jpg";
-import expense from "../assets/img/expense.jpg";
-import socialize from "../assets/img/socialize.jpg";
-import portfolio from "../assets/img/portfolio.jpg";
-import matbaa from "../assets/img/matbaa.jpg";
-import clothing from "../assets/img/clothing.jpg";
+import epin from "../assets/img/epin.png";
+import expense from "../assets/img/expense.png";
+import socialize from "../assets/img/socialize.png";
+import portfolio from "../assets/img/portfolio.png";
+import matbaa from "../assets/img/matbaa.png";
+import clothing from "../assets/img/clothing.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
