@@ -1,8 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-// import drclean from "../assets/img/drclean.jpg";
-// import drclean from "../assets/img/drclean.jpg";
-// import drclean from '../assets/img/drclean.jpg';
+import drclean from '../assets/img/drclean.jpg';
 
 import pascal from "../assets/img/pascal.jpg";
 import multimedia from "../assets/img/multimedia.jpeg";
@@ -21,7 +19,7 @@ export const Projects = () => {
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: pascal,
+      imgUrl: drclean,
       link: "https://drclean.az/",
     },
     {
