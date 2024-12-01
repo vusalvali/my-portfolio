@@ -1,8 +1,7 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 // import drclean from "../assets/img/drclean.jpg";
-import drclean from '/src/assets/img/drclean.jpg';
-
+import drclean from "../assets/img/drclean.jpg";
 import pascal from "../assets/img/pascal.jpg";
 import multimedia from "../assets/img/multimedia.jpeg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -71,8 +70,6 @@ export const Projects = () => {
       imgUrl: clothing,
       link: "https://vusal-clothing.netlify.app/",
     },
-    
-    
   ];
 
   return (
