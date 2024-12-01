@@ -5,6 +5,6 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   build: {
-    assetsInlineLimit: 4096, // Inline images smaller than 4KB
+    assetsInlineLimit: 0, // Inline images smaller than 4KB
   },
 });
