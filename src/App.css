@@ -459,8 +459,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   height: 100%;
 }
 
-
-
 .proj-txtx {
   position: absolute;
   text-align: center;
@@ -579,6 +577,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+}
+.name-large {
+  font-size: 1.5rem; /* Adjust the size as needed */
+  font-weight: bold; /* Optional: makes it bolder */
 }
 .newsletter-bx {
   background: #ffffff;
